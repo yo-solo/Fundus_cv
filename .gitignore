@@ -1,0 +1,7 @@
+.idea/
+.venv/
+
+*.bmp
+*.jpg
+*.png
+*.zip.*
